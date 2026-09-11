@@ -40,6 +40,6 @@
 ### 方式二：从源码运行
 
 ```bash
-git clone https://github.com/MCBBS1145/API-.git
-cd API-
+git clone https://github.com/Yukina1918/APIClient.git
+cd APIClient
 python -m ai_chat
