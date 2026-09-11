@@ -23,7 +23,7 @@
 
 ## 快速开始
 
-**下载 exe 直接使用**
+### 方式一：下载 exe 直接使用
 
 到 [Releases](../../releases) 页面下载最新版压缩包，解压后双击 `API引用器Ver3.0.exe`。
 
@@ -36,3 +36,10 @@
 5. 回主界面开始聊天
 
 详细步骤见压缩包里的 `食用方法.txt`。
+
+### 方式二：从源码运行
+
+```bash
+git clone https://github.com/MCBBS1145/API-.git
+cd API-
+python -m ai_chat
